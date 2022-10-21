@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Plataformas/Ethereum",
+  "id": "Plataformas/Ethereum",
+  "title": "Ethereum",
+  "description": "",
+  "source": "@site/docs/Plataformas/Ethereum.md",
+  "sourceDirName": "Plataformas",
+  "slug": "/Plataformas/Ethereum",
+  "permalink": "/docs/Plataformas/Ethereum",
+  "draft": false,
+  "editUrl": "https://github.com/rodrigodg1/conceitos-blockchain/tree/main/docs/docs/Plataformas/Ethereum.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plataformas",
+    "permalink": "/docs/category/plataformas"
+  },
+  "next": {
+    "title": "Hyperledger",
+    "permalink": "/docs/Plataformas/Hyperledger"
+  }
+}

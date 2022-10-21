@@ -1,0 +1,51 @@
+{
+  "/markdown-page-081": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "93290ca6"
+    },
+    "content": "393be207"
+  },
+  "/docs-ef7": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "562fba08"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/docs/Blockchain/-ebb": {
+    "__comp": "17896441",
+    "content": "eb16fc2a"
+  },
+  "/docs/Blockchain/Mecanismo de Consenso-0db": {
+    "__comp": "17896441",
+    "content": "b3582882"
+  },
+  "/docs/category/blockchain---fundamentos-7f1": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "4c1585e4"
+  },
+  "/docs/category/plataformas-74f": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "34c148f0"
+  },
+  "/docs/intro-aed": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/docs/Plataformas/Ethereum-e14": {
+    "__comp": "17896441",
+    "content": "5416fbd8"
+  },
+  "/docs/Plataformas/Hyperledger-be9": {
+    "__comp": "17896441",
+    "content": "47af0383"
+  },
+  "/-57d": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "93290ca6"
+    },
+    "config": "5e9f5e1a"
+  }
+}

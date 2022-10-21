@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Blockchain/Mecanismo de Consenso",
+  "id": "Blockchain/Mecanismo de Consenso",
+  "title": "Mecanismo de Consenso",
+  "description": "",
+  "source": "@site/docs/Blockchain/Mecanismo de Consenso.md",
+  "sourceDirName": "Blockchain",
+  "slug": "/Blockchain/Mecanismo de Consenso",
+  "permalink": "/docs/Blockchain/Mecanismo de Consenso",
+  "draft": false,
+  "editUrl": "https://github.com/rodrigodg1/conceitos-blockchain/tree/main/docs/docs/Blockchain/Mecanismo de Consenso.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Blockchain",
+    "permalink": "/docs/Blockchain/"
+  },
+  "next": {
+    "title": "Plataformas",
+    "permalink": "/docs/category/plataformas"
+  }
+}

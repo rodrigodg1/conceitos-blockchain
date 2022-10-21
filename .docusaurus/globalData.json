@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Blockchain/Blockchain",
+              "path": "/docs/Blockchain/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Blockchain/Mecanismo de Consenso",
+              "path": "/docs/Blockchain/Mecanismo de Consenso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataformas/Ethereum",
+              "path": "/docs/Plataformas/Ethereum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataformas/Hyperledger",
+              "path": "/docs/Plataformas/Hyperledger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/blockchain---fundamentos",
+              "path": "/docs/category/blockchain---fundamentos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/plataformas",
+              "path": "/docs/category/plataformas",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

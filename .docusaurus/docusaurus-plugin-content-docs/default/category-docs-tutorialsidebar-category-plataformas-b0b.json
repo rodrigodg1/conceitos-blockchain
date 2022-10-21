@@ -1,0 +1,15 @@
+{
+  "title": "Plataformas",
+  "slug": "/category/plataformas",
+  "permalink": "/docs/category/plataformas",
+  "navigation": {
+    "previous": {
+      "title": "Mecanismo de Consenso",
+      "permalink": "/docs/Blockchain/Mecanismo de Consenso"
+    },
+    "next": {
+      "title": "Ethereum",
+      "permalink": "/docs/Plataformas/Ethereum"
+    }
+  }
+}

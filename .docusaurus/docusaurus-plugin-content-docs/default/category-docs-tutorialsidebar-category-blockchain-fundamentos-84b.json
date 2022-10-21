@@ -1,0 +1,16 @@
+{
+  "title": "Blockchain - Fundamentos",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/blockchain---fundamentos",
+  "permalink": "/docs/category/blockchain---fundamentos",
+  "navigation": {
+    "previous": {
+      "title": "Introdução",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Blockchain",
+      "permalink": "/docs/Blockchain/"
+    }
+  }
+}

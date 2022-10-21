@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Plataformas/Hyperledger",
+  "id": "Plataformas/Hyperledger",
+  "title": "Hyperledger",
+  "description": "",
+  "source": "@site/docs/Plataformas/Hyperledger.md",
+  "sourceDirName": "Plataformas",
+  "slug": "/Plataformas/Hyperledger",
+  "permalink": "/docs/Plataformas/Hyperledger",
+  "draft": false,
+  "editUrl": "https://github.com/rodrigodg1/conceitos-blockchain/tree/main/docs/docs/Plataformas/Hyperledger.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethereum",
+    "permalink": "/docs/Plataformas/Ethereum"
+  }
+}
